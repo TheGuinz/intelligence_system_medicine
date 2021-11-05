@@ -1,18 +1,14 @@
 # Intelligent Systems in Medicine
 
- ____  _____ _____ ____  
-/ ___|| ____| ____|  _ \ 
-\___ \|  _| |  _| | |_) |
- ___) | |___| |___|  _ < 
-|____/|_____|_____|_| \_\
-                         
+![Seer Logo](https://training.seer.cancer.gov/images/seer-logo.png)
 
 ## Authors
-[-] Guinzburg Nathanael
-[-] Bar Rotem
-[-] Erez
+[:rage1: Guinzburg Nathanael](https://github.com/TheGuinz)<br>
+[:godmode: Baruch Rotem](https://github.com/rotembaruch)<br>
+[:suspect: Erez](https://github.com/erezm123)<br>
 
 ## Description
-
+Bla Bla Bla
 
 ## References
+Bla Bla Bla
